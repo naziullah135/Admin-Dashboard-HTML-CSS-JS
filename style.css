@@ -429,8 +429,8 @@ body {
   }
   .main.active .toggle {
     position: fixed;
-    right: 0;
-    left: initial;
+    /* right: 0;
+    left: initial; */
     color: var(--white);
   }
 }
